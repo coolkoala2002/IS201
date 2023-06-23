@@ -1,0 +1,48 @@
+h1 {
+  color:coral;
+  font-family: Didot;
+}
+h2 {
+  color:lightcoral;
+  font-family: Didot;
+}
+h3 {
+  color:lightsteelblue;
+  font-family: Didot;
+}
+li {
+    color:cadetblue;
+    font-family: Optima, Perpetua;
+}
+p {
+  color:cadetblue;
+  font-family: Optima, Perpetua;
+}
+
+.custom-background {
+  background-color:floralwhite;
+}
+#div1 {
+  position: relative;
+  width: 200px;
+  height: 200px;
+  background-color: orange;
+}
+
+#div2 {
+  position: absolute;
+  top: 50px;
+  left: 50px;
+  width: 100px;
+  height: 100px;
+  background-color: red;
+}
+
+#div3 {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  width: 150px;
+  height: 150px;
+  background-color: purple;
+}
